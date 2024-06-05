@@ -36,3 +36,10 @@ print(x)
 txt = "The rain in Spain stays mainly in the plain"
 x = "ain" not in txt
 print(x)
+
+# String Concatenation
+a = "Hello"
+b = "World"
+c = a + b
+print(c)
+
