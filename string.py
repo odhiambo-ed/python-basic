@@ -27,3 +27,8 @@ print(a.replace("H", "J"))  # returns Jello, World!
 
 a = "Hello, World!"
 print(a.split(",")) # returns ['Hello', ' World!']
+
+# Check String
+txt = "The rain in Spain stays mainly in the plain"
+x = "ain" in txt
+print(x)
