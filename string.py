@@ -32,3 +32,7 @@ print(a.split(",")) # returns ['Hello', ' World!']
 txt = "The rain in Spain stays mainly in the plain"
 x = "ain" in txt
 print(x)
+
+txt = "The rain in Spain stays mainly in the plain"
+x = "ain" not in txt
+print(x)
